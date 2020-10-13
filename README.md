@@ -1,4 +1,4 @@
 # hello-world
 Github training
 
-I am learning how to use GitHub.
+I am Chad, a student at the University of Iowa.
